@@ -1,0 +1,178 @@
+Added Component: Designator=J1(SIP9)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(SIP4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(SIP4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(SIP4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(SIP6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(SIP7)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(BORNERA2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=KL1(Freedom KL25Z Headerarray)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creador"; Value = "DONADON, Tiago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fecha"; Value = "06/07/2022"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(OPTO_SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(TO-220 V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(OPTO_SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(OPTO_SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(OPTO_SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=CS Pin=J1-3
+Added Pin To Net: NetName=RST Pin=J1-4
+Added Pin To Net: NetName=DC/RS Pin=J1-5
+Added Pin To Net: NetName=MOSI Pin=J1-6
+Added Pin To Net: NetName=SCK Pin=J1-7
+Added Pin To Net: NetName=3V3 Pin=J1-8
+Added Pin To Net: NetName=MISO Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=3V3 Pin=J2-2
+Added Pin To Net: NetName=VEL Pin=J2-3
+Added Pin To Net: NetName=4N25 Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=CNYKL Pin=J3-3
+Added Pin To Net: NetName=MASA Pin=J3-4
+Added Pin To Net: NetName=FC_X Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=FC_Y Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND_ARD Pin=J5-1
+Added Pin To Net: NetName=DIR_X1 Pin=J5-2
+Added Pin To Net: NetName=DIR_Y1 Pin=J5-3
+Added Pin To Net: NetName=STEP_X1 Pin=J5-4
+Added Pin To Net: NetName=STEP_Y1 Pin=J5-5
+Added Pin To Net: NetName=5V Pin=J5-6
+Added Pin To Net: NetName=P1 Pin=J6-1
+Added Pin To Net: NetName=P2 Pin=J6-2
+Added Pin To Net: NetName=P3 Pin=J6-3
+Added Pin To Net: NetName=P4 Pin=J6-4
+Added Pin To Net: NetName=P5 Pin=J6-5
+Added Pin To Net: NetName=P6 Pin=J6-6
+Added Pin To Net: NetName=P7 Pin=J6-7
+Added Pin To Net: NetName=12V Pin=J7-1
+Added Pin To Net: NetName=MASA Pin=J7-2
+Added Pin To Net: NetName=12V Pin=J8-1
+Added Pin To Net: NetName=MASA Pin=J8-2
+Added Pin To Net: NetName=FC_Y Pin=KL1-13
+Added Pin To Net: NetName=FC_X Pin=KL1-14
+Added Pin To Net: NetName=RST Pin=KL1-17
+Added Pin To Net: NetName=DC/RS Pin=KL1-20
+Added Pin To Net: NetName=CS Pin=KL1-21
+Added Pin To Net: NetName=SCK Pin=KL1-22
+Added Pin To Net: NetName=MOSI Pin=KL1-23
+Added Pin To Net: NetName=MISO Pin=KL1-24
+Added Pin To Net: NetName=P7 Pin=KL1-25
+Added Pin To Net: NetName=P6 Pin=KL1-26
+Added Pin To Net: NetName=P4 Pin=KL1-33
+Added Pin To Net: NetName=P1 Pin=KL1-34
+Added Pin To Net: NetName=P3 Pin=KL1-35
+Added Pin To Net: NetName=P2 Pin=KL1-36
+Added Pin To Net: NetName=P5 Pin=KL1-38
+Added Pin To Net: NetName=VEL Pin=KL1-39
+Added Pin To Net: NetName=4N25 Pin=KL1-40
+Added Pin To Net: NetName=STEP_Y Pin=KL1-43
+Added Pin To Net: NetName=DIR_Y Pin=KL1-44
+Added Pin To Net: NetName=STEP_X Pin=KL1-45
+Added Pin To Net: NetName=DIR_X Pin=KL1-46
+Added Pin To Net: NetName=CNYKL Pin=KL1-51
+Added Pin To Net: NetName=3V3 Pin=KL1-54
+Added Pin To Net: NetName=3V3 Pin=KL1-56
+Added Pin To Net: NetName=GND Pin=KL1-58
+Added Pin To Net: NetName=GND Pin=KL1-59
+Added Pin To Net: NetName=GND Pin=KL1-63
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=NetJ3_2 Pin=R1-2
+Added Pin To Net: NetName=CNYKL Pin=R2-1
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=STEP_Y Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=STEP_Y1 Pin=R4-1
+Added Pin To Net: NetName=5V Pin=R4-2
+Added Pin To Net: NetName=DIR_Y Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=DIR_Y1 Pin=R6-1
+Added Pin To Net: NetName=5V Pin=R6-2
+Added Pin To Net: NetName=STEP_X Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=STEP_X1 Pin=R8-1
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Pin To Net: NetName=DIR_X Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=DIR_X1 Pin=R10-1
+Added Pin To Net: NetName=5V Pin=R10-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND_ARD Pin=U1-3
+Added Pin To Net: NetName=STEP_Y1 Pin=U1-4
+Added Pin To Net: NetName=12V Pin=U2-1
+Added Pin To Net: NetName=MASA Pin=U2-2
+Added Pin To Net: NetName=5V Pin=U2-3
+Added Pin To Net: NetName=NetR5_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND_ARD Pin=U3-3
+Added Pin To Net: NetName=DIR_Y1 Pin=U3-4
+Added Pin To Net: NetName=NetR7_2 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND_ARD Pin=U4-3
+Added Pin To Net: NetName=STEP_X1 Pin=U4-4
+Added Pin To Net: NetName=NetR9_2 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND_ARD Pin=U5-3
+Added Pin To Net: NetName=DIR_X1 Pin=U5-4
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J1 DISPLAY
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J2 TRIAC
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J3 CNY70
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J4 FC
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J5 ARDUINO
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J6 TECLADO MATRICIAL
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J7 FUENTE
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J8 CON2
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component KL1 KL25z
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R1 220
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R2 10K
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R3 220
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R4 10k
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R5 220
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R6 10k
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R7 220
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R8 10k
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R9 220
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R10 10k
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component U1 PC817S
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component U2 7805
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component U3 PC817S
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component U4 PC817S
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component U5 PC817S

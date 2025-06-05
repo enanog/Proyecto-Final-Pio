@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MASA Pin=J3-4
+Removed Pin From Net: NetName=5V Pin=R1-1
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=15K
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=3V3 Pin=R1-1

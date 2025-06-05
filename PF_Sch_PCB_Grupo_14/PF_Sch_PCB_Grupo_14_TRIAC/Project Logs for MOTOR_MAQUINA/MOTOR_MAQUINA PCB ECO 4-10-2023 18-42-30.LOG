@@ -1,0 +1,63 @@
+Added Component: Designator=C1(CAP300)
+Added Component: Designator=D1(DO41)
+Added Component: Designator=D2(TO-220 V)
+Added Component: Designator=J1(BORNERA2)
+Added Component: Designator=J2(BORNERA2)
+Added Component: Designator=J3(DIP6)
+Added Component: Designator=J4(DIP6)
+Added Component: Designator=J5(SIP4)
+Added Component: Designator=R1(R Axial 0.8)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(R Axial 0.8)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=+ Pin=C1-2
+Added Pin To Net: NetName=- Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=+ Pin=D2-1
+Added Pin To Net: NetName=M1 Pin=D2-2
+Added Pin To Net: NetName=NetD2_3 Pin=D2-3
+Added Pin To Net: NetName=M1 Pin=J1-1
+Added Pin To Net: NetName=- Pin=J1-2
+Added Pin To Net: NetName=+ Pin=J2-1
+Added Pin To Net: NetName=- Pin=J2-2
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=NetD2_3 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Pin To Net: NetName=NetD1_2 Pin=J4-1
+Added Pin To Net: NetName=- Pin=J4-2
+Added Pin To Net: NetName=4NKL Pin=J4-4
+Added Pin To Net: NetName=3V3 Pin=J4-5
+Added Pin To Net: NetName=4NKL Pin=J5-1
+Added Pin To Net: NetName=VEL Pin=J5-2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=+ Pin=R1-1
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=4NKL Pin=R2-2
+Added Pin To Net: NetName=NetJ3_1 Pin=R3-1
+Added Pin To Net: NetName=VEL Pin=R3-2
+Added Pin To Net: NetName=M1 Pin=R4-1
+Added Pin To Net: NetName=NetJ3_6 Pin=R4-2
+Added Pin To Net: NetName=NetJ5_3 Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=NetC1_1 Pin=R6-1
+Added Pin To Net: NetName=M1 Pin=R6-2
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component C1 33n
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component D1 1N4006
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component D2 TRIAC
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component J1 MOTOR
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component J2 220
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component J3 OPTOTRIAC
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component J4 4N25
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component J5 CON4
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component R1 15K
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component R2 10K
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component R3 220
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component R4 220
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component R5 2.2
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component R6 33

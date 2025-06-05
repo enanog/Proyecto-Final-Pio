@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=ShieldKL25zG18 Member=R?
+Change Component Footprint: Designator=J? Old Footprint=SIP2 90 New Footprint=SIP2*2
+Change Component Designator: OldDesignator=J1 NewDesignator=J3
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J5 NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=KL NewDesignator=KL1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ3_2
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J6 TECLADO MATRICIAL
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J7 FUENTE
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R2 10K

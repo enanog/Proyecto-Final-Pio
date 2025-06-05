@@ -1,0 +1,8 @@
+Change Component Comment : Designator=P7 Old Comment=CON7 New Comment=TECLADO MATRICIAL
+Change Component Designator: OldDesignator=12V GND NewDesignator=J5
+Change Component Designator: OldDesignator=GND 5V CNY GND NewDesignator=J1
+Change Component Designator: OldDesignator=GND VCC VEL 4N NewDesignator=J3
+Change Component Designator: OldDesignator=GND Y GND X NewDesignator=J4
+Change Component Designator: OldDesignator=P7 NewDesignator=J5
+Change Component Designator: OldDesignator=VCC GND CS NewDesignator=J2
+Added Pin To Net: NetName=5V Pin=ARDUINO-27

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>fonts/GENERAL TEXT/Urbane-Light.ttf</file>
+        <file>fonts/TITLES/Articulat CF Demi Bold.ttf</file>
+    </qresource>
+</RCC>

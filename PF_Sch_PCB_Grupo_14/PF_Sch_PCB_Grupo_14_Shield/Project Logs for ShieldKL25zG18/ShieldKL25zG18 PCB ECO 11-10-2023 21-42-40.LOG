@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=CNY Pin=J1-2
+Removed Pin From Net: NetName=5V Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=CNY Pin=R1-2
+Removed Pin From Net: NetName=3V3 Pin=R2-1
+Removed Pin From Net: NetName=CNYKL Pin=R2-2
+Removed Pin From Net: NetName=CNYKL Pin=T1-2
+Removed Pin From Net: NetName=GND Pin=T1-3
+Removed Member From Class: ClassName=ShieldKL25zG18 Member=R2
+Removed Member From Class: ClassName=ShieldKL25zG18 Member=T1
+Change Component Designator: OldDesignator=12V GND NewDesignator=J5
+Change Component Designator: OldDesignator=7805 NewDesignator=U1
+Change Component Designator: OldDesignator=P7 NewDesignator=J5
+Added Pin To Net: NetName=CNYKL Pin=J1-2
+Added Pin To Net: NetName=CNY Pin=J1-3
+Added Pin To Net: NetName=MASA Pin=J1-4
+Added Pin To Net: NetName=CNYKL Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Change Net Name : Old Net Name=CNY New Net Name=NetJ1_3
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component KL KL25z

@@ -1,0 +1,5 @@
+Added Component: Designator=U1(TO-220 V)
+Added Pin To Net: NetName=12V Pin=U1-1
+Added Pin To Net: NetName=MASA Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component U1 7805

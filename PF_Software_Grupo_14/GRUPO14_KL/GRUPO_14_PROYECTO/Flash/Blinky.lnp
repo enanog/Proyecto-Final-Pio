@@ -1,0 +1,23 @@
+--cpu Cortex-M0+
+".\flash\startup_mkl25z4.o"
+".\flash\system_mkl25z4.o"
+".\flash\main.o"
+".\flash\gpio.o"
+".\flash\tpm.o"
+".\flash\uart.o"
+".\flash\spi.o"
+".\flash\systick.o"
+".\flash\comandos.o"
+".\flash\inicializacion.o"
+".\flash\tft.o"
+".\flash\cny70.o"
+".\flash\nema17.o"
+".\flash\teclado.o"
+".\flash\antirrebote.o"
+".\flash\triac.o"
+".\flash\protocolo.o"
+".\flash\bordado.o"
+--strict --scatter ".\Flash\Blinky.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Flash\Blinky.map" -o .\Flash\Blinky.axf

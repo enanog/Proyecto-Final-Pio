@@ -1,0 +1,141 @@
+Added Component: Designator=ARDUINO(ARDUINO)
+Added Component: Designator=J1(SIP4)
+Added Component: Designator=J2(SIP9)
+Added Component: Designator=J3(SIP4)
+Added Component: Designator=J4(SIP4)
+Added Component: Designator=J5(BORNERA2)
+Added Component: Designator=KL(Freedom KL25Z Headerarray)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(0805)
+Added Component: Designator=R8(0805)
+Added Component: Designator=R9(0805)
+Added Component: Designator=R10(0805)
+Added Component: Designator=T1(TO92)
+Added Component: Designator=U1(TO-220 H - DISIPADOR)
+Added Component: Designator=U2(DIP16)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=CNY Pin=J1-2
+Added Pin To Net: NetName=5V Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=CS Pin=J2-3
+Added Pin To Net: NetName=RST Pin=J2-4
+Added Pin To Net: NetName=DC/RS Pin=J2-5
+Added Pin To Net: NetName=MOSI Pin=J2-6
+Added Pin To Net: NetName=SCK Pin=J2-7
+Added Pin To Net: NetName=3V3 Pin=J2-8
+Added Pin To Net: NetName=MISO Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=3V3 Pin=J3-2
+Added Pin To Net: NetName=VEL Pin=J3-3
+Added Pin To Net: NetName=4N25 Pin=J3-4
+Added Pin To Net: NetName=FC_X Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=FC_Y Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=FC_Y Pin=KL-13
+Added Pin To Net: NetName=FC_X Pin=KL-14
+Added Pin To Net: NetName=RST Pin=KL-17
+Added Pin To Net: NetName=DC/RS Pin=KL-20
+Added Pin To Net: NetName=CS Pin=KL-21
+Added Pin To Net: NetName=SCK Pin=KL-22
+Added Pin To Net: NetName=MOSI Pin=KL-23
+Added Pin To Net: NetName=MISO Pin=KL-24
+Added Pin To Net: NetName=VEL Pin=KL-39
+Added Pin To Net: NetName=4N25 Pin=KL-40
+Added Pin To Net: NetName=STEP_Y Pin=KL-43
+Added Pin To Net: NetName=DIR_Y Pin=KL-44
+Added Pin To Net: NetName=STEP_X Pin=KL-45
+Added Pin To Net: NetName=DIR_X Pin=KL-46
+Added Pin To Net: NetName=CNYKL Pin=KL-51
+Added Pin To Net: NetName=3V3 Pin=KL-54
+Added Pin To Net: NetName=3V3 Pin=KL-56
+Added Pin To Net: NetName=GND Pin=KL-58
+Added Pin To Net: NetName=GND Pin=KL-59
+Added Pin To Net: NetName=GND Pin=KL-63
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=CNY Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=CNYKL Pin=R2-2
+Added Pin To Net: NetName=STEP_Y Pin=R3-1
+Added Pin To Net: NetName=DIR_Y Pin=R4-1
+Added Pin To Net: NetName=STEP_X Pin=R5-1
+Added Pin To Net: NetName=DIR_X Pin=R6-1
+Added Pin To Net: NetName=5V Pin=R7-2
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=5V Pin=R10-2
+Added Pin To Net: NetName=NetR1_1 Pin=T1-1
+Added Pin To Net: NetName=CNYKL Pin=T1-2
+Added Pin To Net: NetName=GND Pin=T1-3
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=12V Pin=J5-1
+Added Pin To Net: NetName=12V Pin=U1-1
+Added Net: Name=12V
+Added Pin To Net: NetName=DIR_X1 Pin=ARDUINO-5
+Added Pin To Net: NetName=DIR_X1 Pin=R10-1
+Added Pin To Net: NetName=DIR_X1 Pin=U2-10
+Added Net: Name=DIR_X1
+Added Pin To Net: NetName=DIR_Y1 Pin=ARDUINO-6
+Added Pin To Net: NetName=DIR_Y1 Pin=R8-1
+Added Pin To Net: NetName=DIR_Y1 Pin=U2-14
+Added Net: Name=DIR_Y1
+Added Pin To Net: NetName=GND_ARD Pin=ARDUINO-4
+Added Pin To Net: NetName=GND_ARD Pin=U2-9
+Added Pin To Net: NetName=GND_ARD Pin=U2-12
+Added Pin To Net: NetName=GND_ARD Pin=U2-13
+Added Pin To Net: NetName=GND_ARD Pin=U2-16
+Added Net: Name=GND_ARD
+Added Pin To Net: NetName=MASA Pin=J5-2
+Added Pin To Net: NetName=MASA Pin=U1-2
+Added Net: Name=MASA
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U2-4
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U2-5
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U2-8
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=STEP_X1 Pin=ARDUINO-8
+Added Pin To Net: NetName=STEP_X1 Pin=R9-1
+Added Pin To Net: NetName=STEP_X1 Pin=U2-11
+Added Net: Name=STEP_X1
+Added Pin To Net: NetName=STEP_Y1 Pin=ARDUINO-9
+Added Pin To Net: NetName=STEP_Y1 Pin=R7-1
+Added Pin To Net: NetName=STEP_Y1 Pin=U2-15
+Added Net: Name=STEP_Y1
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component ARDUINO Arduino Nano
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J1 CNY70
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J2 DISPLAY
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J3 TRIAC
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J4 FC
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J5 FUENTE
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component KL KL25z
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R1 10K
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R2 10K
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R3 220
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R4 220
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R5 220
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R6 220
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R7 10k
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R8 10k
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R9 10k
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R10 10k
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component T1 NPN
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component U1 7805
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component U2 PC849

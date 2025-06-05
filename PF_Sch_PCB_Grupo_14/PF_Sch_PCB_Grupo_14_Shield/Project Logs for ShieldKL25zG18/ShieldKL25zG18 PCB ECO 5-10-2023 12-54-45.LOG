@@ -1,0 +1,84 @@
+Added Component: Designator=ARDUINO(ARDUINO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(SIP4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(SIP9)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(SIP4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(SIP4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=KL(Freedom KL25Z Headerarray)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creador"; Value = "DONADON, Tiago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fecha"; Value = "06/07/2022"; VariantName = "[No Variations]"
+Added Component: Designator=R1(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T1(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Autor"; Value = "Brula, Tomas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fecha"; Value = "19/4/22"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DIR_X Pin=ARDUINO-5
+Added Pin To Net: NetName=DIR_Y Pin=ARDUINO-6
+Added Pin To Net: NetName=STEP_X Pin=ARDUINO-8
+Added Pin To Net: NetName=STEP_Y Pin=ARDUINO-9
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=CNY Pin=J1-2
+Added Pin To Net: NetName=5V Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=CS Pin=J2-3
+Added Pin To Net: NetName=RST Pin=J2-4
+Added Pin To Net: NetName=DC/RS Pin=J2-5
+Added Pin To Net: NetName=MOSI Pin=J2-6
+Added Pin To Net: NetName=SCK Pin=J2-7
+Added Pin To Net: NetName=3V3 Pin=J2-8
+Added Pin To Net: NetName=MISO Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=3V3 Pin=J3-2
+Added Pin To Net: NetName=VEL Pin=J3-3
+Added Pin To Net: NetName=4N25 Pin=J3-4
+Added Pin To Net: NetName=FC_X Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=FC_Y Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=FC_Y Pin=KL-13
+Added Pin To Net: NetName=FC_X Pin=KL-14
+Added Pin To Net: NetName=RST Pin=KL-17
+Added Pin To Net: NetName=DC/RS Pin=KL-20
+Added Pin To Net: NetName=CS Pin=KL-21
+Added Pin To Net: NetName=SCK Pin=KL-22
+Added Pin To Net: NetName=MOSI Pin=KL-23
+Added Pin To Net: NetName=MISO Pin=KL-24
+Added Pin To Net: NetName=VEL Pin=KL-39
+Added Pin To Net: NetName=4N25 Pin=KL-40
+Added Pin To Net: NetName=STEP_Y Pin=KL-43
+Added Pin To Net: NetName=DIR_Y Pin=KL-44
+Added Pin To Net: NetName=STEP_X Pin=KL-45
+Added Pin To Net: NetName=DIR_X Pin=KL-46
+Added Pin To Net: NetName=CNYKL Pin=KL-51
+Added Pin To Net: NetName=3V3 Pin=KL-54
+Added Pin To Net: NetName=3V3 Pin=KL-56
+Added Pin To Net: NetName=5V Pin=KL-57
+Added Pin To Net: NetName=GND Pin=KL-58
+Added Pin To Net: NetName=GND Pin=KL-59
+Added Pin To Net: NetName=GND Pin=KL-63
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=CNY Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=CNYKL Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=T1-1
+Added Pin To Net: NetName=CNYKL Pin=T1-2
+Added Pin To Net: NetName=GND Pin=T1-3
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component ARDUINO Arduino Nano
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J1 CNY70
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J2 DISPLAY
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J3 TRIAC
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J4 FC
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component KL KL25z
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R1 10K
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R2 10K
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component T1 NPN

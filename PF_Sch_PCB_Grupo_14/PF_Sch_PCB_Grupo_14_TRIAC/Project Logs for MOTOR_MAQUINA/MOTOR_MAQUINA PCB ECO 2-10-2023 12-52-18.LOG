@@ -1,0 +1,13 @@
+Added Component: Designator=C1(CAP200)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Autor"; Value = "Brula, Tomas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fecha"; Value = "19/4/22"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES400)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+ Pin=C1-2
+Added Pin To Net: NetName=M1 Pin=R6-2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R6-1
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component C1 33n
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component R6 33

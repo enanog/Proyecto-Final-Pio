@@ -1,0 +1,7 @@
+Added Component: Designator=J5(SIP4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=4NKL Pin=J5-1
+Added Pin To Net: NetName=VEL Pin=J5-2
+Added Pin To Net: NetName=3V3 Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component J5 CON4

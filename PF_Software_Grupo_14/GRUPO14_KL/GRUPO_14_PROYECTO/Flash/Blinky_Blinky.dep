@@ -1,0 +1,345 @@
+Dependencies for Project 'Blinky', Target 'Blinky': (DO NOT MODIFY !)
+CompilerVersion: 6190000::V6.19::ARMCLANG
+F (.\Startup\MKL25Z4.h)(0x655678B4)()
+F (.\Startup\startup_MKL25Z4.s)(0x655678B4)(--cpu Cortex-M0+ -g --diag_suppress=A1950W-I.\RTE\_Blinky-IC:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Keil_v5\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include--pd "__UVISION_VERSION SETA 538"--pd "_RTE_ SETA 1"--pd "MKL25Z128xxx4 SETA 1"--pd "_RTE_ SETA 1"--list .\flash\startup_mkl25z4.lst--xref -o .\flash\startup_mkl25z4.o--depend .\flash\startup_mkl25z4.d)
+F (.\Startup\system_MKL25Z4.c)(0x655678B4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/system_mkl25z4.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+F (.\Startup\system_MKL25Z4.h)(0x655678B4)()
+F (.\main.c)(0x655678B4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/main.o -MD)
+I (Dispositivos\CNY70.h)(0x655678C8)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Drivers\TPM.h)(0x655678C8)
+I (Dispositivos\NEMA17.h)(0x655678CA)
+I (Dispositivos\Comandos.h)(0x655678CA)
+I (Dispositivos\TFT.h)(0x655678CC)
+I (Drivers\ILI9341.h)(0x655678C6)
+I (Dispositivos\TRIAC.h)(0x655678CC)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Drivers\SysTick.h)(0x655678C6)
+I (Drivers\UART.h)(0x655678C8)
+I (Dispositivos\Teclado.h)(0x655678CA)
+I (Aplicacion\Bordado.h)(0x655678CC)
+I (Aplicacion\protocolo.h)(0x655678CC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388E3B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388E3B8)
+F (.\Drivers\GPIO.c)(0x655678C6)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/gpio.o -MD)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+F (.\Drivers\GPIO.h)(0x655678C6)()
+F (.\Drivers\TPM.c)(0x655678C6)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/tpm.o -MD)
+I (Drivers\TPM.h)(0x655678C8)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Dispositivos\NEMA17.h)(0x655678CA)
+I (Dispositivos\Comandos.h)(0x655678CA)
+I (Dispositivos\TFT.h)(0x655678CC)
+I (Drivers\ILI9341.h)(0x655678C6)
+I (Dispositivos\TRIAC.h)(0x655678CC)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Drivers\SysTick.h)(0x655678C6)
+I (Drivers\UART.h)(0x655678C8)
+I (Dispositivos\Teclado.h)(0x655678CA)
+I (Dispositivos\CNY70.h)(0x655678C8)
+I (Aplicacion\Bordado.h)(0x655678CC)
+I (Aplicacion\protocolo.h)(0x655678CC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388E3B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388E3B8)
+F (.\Drivers\TPM.h)(0x655678C8)()
+F (.\Drivers\UART.c)(0x655678C8)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/uart.o -MD)
+I (Drivers\UART.h)(0x655678C8)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+F (.\Drivers\UART.h)(0x655678C8)()
+F (.\Drivers\SPI.c)(0x655678C6)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/spi.o -MD)
+I (Drivers\SPI.h)(0x655678C6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+F (.\Drivers\SPI.h)(0x655678C6)()
+F (.\Drivers\Fonts.h)(0x655678C4)()
+F (.\Drivers\ILI9341.h)(0x655678C6)()
+F (.\Drivers\SysTick.c)(0x655678C6)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/systick.o -MD)
+I (Drivers\SysTick.h)(0x655678C6)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Drivers\UART.h)(0x655678C8)
+I (Dispositivos\Teclado.h)(0x655678CA)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Dispositivos\TRIAC.h)(0x655678CC)
+I (Drivers\TPM.h)(0x655678C8)
+I (Dispositivos\NEMA17.h)(0x655678CA)
+I (Dispositivos\Comandos.h)(0x655678CA)
+I (Dispositivos\TFT.h)(0x655678CC)
+I (Drivers\ILI9341.h)(0x655678C6)
+I (Aplicacion\Bordado.h)(0x655678CC)
+I (Dispositivos\CNY70.h)(0x655678C8)
+I (Aplicacion\protocolo.h)(0x655678CC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388E3B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388E3B8)
+F (.\Drivers\SysTick.h)(0x655678C6)()
+F (.\Dispositivos\Comandos.c)(0x655678C8)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/comandos.o -MD)
+I (Dispositivos\Comandos.h)(0x655678CA)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Dispositivos\TFT.h)(0x655678CC)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Drivers\ILI9341.h)(0x655678C6)
+I (Dispositivos\NEMA17.h)(0x655678CA)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Drivers\TPM.h)(0x655678C8)
+I (Aplicacion\Bordado.h)(0x655678CC)
+I (Dispositivos\CNY70.h)(0x655678C8)
+I (Aplicacion\protocolo.h)(0x655678CC)
+I (Drivers\UART.h)(0x655678C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388E3B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388E3B8)
+I (Dispositivos\TRIAC.h)(0x655678CC)
+I (Drivers\SysTick.h)(0x655678C6)
+I (Dispositivos\Teclado.h)(0x655678CA)
+F (.\Dispositivos\Comandos.h)(0x655678CA)()
+F (.\Dispositivos\Inicializacion.c)(0x655678CA)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/inicializacion.o -MD)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+F (.\Dispositivos\Inicializacion.h)(0x655678CA)()
+F (.\Dispositivos\TFT.c)(0x655678CC)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/tft.o -MD)
+I (Dispositivos\TFT.h)(0x655678CC)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Drivers\SPI.h)(0x655678C6)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Drivers\ILI9341.h)(0x655678C6)
+I (Drivers\Fonts.h)(0x655678C4)
+F (.\Dispositivos\TFT.h)(0x655678CC)()
+F (.\Dispositivos\CNY70.c)(0x655678C8)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/cny70.o -MD)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Dispositivos\CNY70.h)(0x655678C8)
+F (.\Dispositivos\CNY70.h)(0x655678C8)()
+F (.\Dispositivos\NEMA17.c)(0x655678CA)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/nema17.o -MD)
+I (Dispositivos\NEMA17.h)(0x655678CA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (Dispositivos\Comandos.h)(0x655678CA)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Dispositivos\TFT.h)(0x655678CC)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Drivers\ILI9341.h)(0x655678C6)
+I (Dispositivos\TRIAC.h)(0x655678CC)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Drivers\TPM.h)(0x655678C8)
+I (Aplicacion\Bordado.h)(0x655678CC)
+I (Dispositivos\CNY70.h)(0x655678C8)
+I (Aplicacion\protocolo.h)(0x655678CC)
+I (Drivers\UART.h)(0x655678C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388E3B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388E3B8)
+I (Drivers\SysTick.h)(0x655678C6)
+I (Dispositivos\Teclado.h)(0x655678CA)
+F (.\Dispositivos\NEMA17.h)(0x655678CA)()
+F (.\Dispositivos\Teclado.c)(0x655678CA)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/teclado.o -MD)
+I (Dispositivos\Teclado.h)(0x655678CA)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Drivers\SysTick.h)(0x655678C6)
+I (Drivers\UART.h)(0x655678C8)
+I (Dispositivos\TRIAC.h)(0x655678CC)
+I (Drivers\TPM.h)(0x655678C8)
+I (Dispositivos\NEMA17.h)(0x655678CA)
+I (Dispositivos\Comandos.h)(0x655678CA)
+I (Dispositivos\TFT.h)(0x655678CC)
+I (Drivers\ILI9341.h)(0x655678C6)
+I (Aplicacion\Bordado.h)(0x655678CC)
+I (Dispositivos\CNY70.h)(0x655678C8)
+I (Aplicacion\protocolo.h)(0x655678CC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388E3B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388E3B8)
+F (.\Dispositivos\Teclado.h)(0x655678CA)()
+F (.\Dispositivos\Antirrebote.c)(0x655678C8)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/antirrebote.o -MD)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Drivers\SysTick.h)(0x655678C6)
+I (Drivers\UART.h)(0x655678C8)
+I (Dispositivos\Teclado.h)(0x655678CA)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Dispositivos\TRIAC.h)(0x655678CC)
+I (Drivers\TPM.h)(0x655678C8)
+I (Dispositivos\NEMA17.h)(0x655678CA)
+I (Dispositivos\Comandos.h)(0x655678CA)
+I (Dispositivos\TFT.h)(0x655678CC)
+I (Drivers\ILI9341.h)(0x655678C6)
+I (Aplicacion\Bordado.h)(0x655678CC)
+I (Dispositivos\CNY70.h)(0x655678C8)
+I (Aplicacion\protocolo.h)(0x655678CC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388E3B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388E3B8)
+F (.\Dispositivos\Antirrebote.h)(0x655678C8)()
+F (.\Dispositivos\TRIAC.c)(0x655678CC)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/triac.o -MD)
+I (Dispositivos\TRIAC.h)(0x655678CC)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Drivers\TPM.h)(0x655678C8)
+I (Dispositivos\NEMA17.h)(0x655678CA)
+I (Dispositivos\Comandos.h)(0x655678CA)
+I (Dispositivos\TFT.h)(0x655678CC)
+I (Drivers\ILI9341.h)(0x655678C6)
+I (Dispositivos\Teclado.h)(0x655678CA)
+I (Drivers\SysTick.h)(0x655678C6)
+I (Drivers\UART.h)(0x655678C8)
+I (Aplicacion\Bordado.h)(0x655678CC)
+I (Dispositivos\CNY70.h)(0x655678C8)
+I (Aplicacion\protocolo.h)(0x655678CC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388E3B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388E3B8)
+F (.\Dispositivos\TRIAC.h)(0x655678CC)()
+F (.\Aplicacion\protocolo.c)(0x655678CC)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/protocolo.o -MD)
+I (Aplicacion\protocolo.h)(0x655678CC)
+I (Drivers\UART.h)(0x655678C8)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Dispositivos\Comandos.h)(0x655678CA)
+I (Dispositivos\TFT.h)(0x655678CC)
+I (Drivers\ILI9341.h)(0x655678C6)
+I (Dispositivos\NEMA17.h)(0x655678CA)
+I (Drivers\TPM.h)(0x655678C8)
+I (Aplicacion\Bordado.h)(0x655678CC)
+I (Dispositivos\CNY70.h)(0x655678C8)
+I (Dispositivos\TRIAC.h)(0x655678CC)
+I (Drivers\SysTick.h)(0x655678C6)
+I (Dispositivos\Teclado.h)(0x655678CA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388E3B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388E3B8)
+F (.\Aplicacion\protocolo.h)(0x655678CC)()
+F (.\Aplicacion\Bordado.c)(0x655678CC)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -fno-function-sections -I ./Drivers -I ./Startup -I ./Dispositivos -I ./Aplicacion-I./RTE/_Blinky-IC:/Keil_v5/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Keil_v5/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -DMKL25Z128xxx4 -D_RTE_-o ./flash/bordado.o -MD)
+I (Aplicacion\Bordado.h)(0x655678CC)
+I (Startup\MKL25Z4.h)(0x655678B4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388E3B8)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FE58E)
+I (C:\Keil_v5\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FE58E)
+I (Startup\system_MKL25Z4.h)(0x655678B4)
+I (Dispositivos\CNY70.h)(0x655678C8)
+I (Drivers\GPIO.h)(0x655678C6)
+I (Dispositivos\TFT.h)(0x655678CC)
+I (Dispositivos\NEMA17.h)(0x655678CA)
+I (Dispositivos\Comandos.h)(0x655678CA)
+I (Drivers\ILI9341.h)(0x655678C6)
+I (Dispositivos\TRIAC.h)(0x655678CC)
+I (Dispositivos\Inicializacion.h)(0x655678CA)
+I (Dispositivos\Antirrebote.h)(0x655678C8)
+I (Drivers\TPM.h)(0x655678C8)
+I (Drivers\SysTick.h)(0x655678C6)
+I (Drivers\UART.h)(0x655678C8)
+I (Dispositivos\Teclado.h)(0x655678CA)
+I (Aplicacion\protocolo.h)(0x655678CC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388E3B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388E3B8)
+F (.\Aplicacion\Bordado.h)(0x655678CC)()

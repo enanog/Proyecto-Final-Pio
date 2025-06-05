@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=12V MASA NewDesignator=J5
+Change component parameters: Designator = "T1"; Footprint = "TO92"; UniqueID = "\SSUACOAP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Autor"; Value = "Brula, Tomas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fecha"; Value = "19/4/22"; VariantName = "[No Variations]"
+Change component parameters: Designator = "KL"; Footprint = "Freedom KL25Z Headerarray"; UniqueID = "\GJKHJWOP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Creador"; Value = "DONADON, Tiago"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fecha"; Value = "06/07/2022"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J2-1
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component KL KL25z

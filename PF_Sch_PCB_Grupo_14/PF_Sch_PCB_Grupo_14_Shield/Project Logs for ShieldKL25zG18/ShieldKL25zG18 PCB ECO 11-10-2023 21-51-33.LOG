@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CNYKL Pin=J1-2
+Removed Pin From Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-2
+Added Pin To Net: NetName=CNYKL Pin=J1-3
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetJ1_2
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J5 FUENTE

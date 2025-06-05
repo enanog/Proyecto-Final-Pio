@@ -1,0 +1,6 @@
+Added Component: Designator=R?(0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=NetJ1_3 Pin=R?-2
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J5 FUENTE
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component R? 220

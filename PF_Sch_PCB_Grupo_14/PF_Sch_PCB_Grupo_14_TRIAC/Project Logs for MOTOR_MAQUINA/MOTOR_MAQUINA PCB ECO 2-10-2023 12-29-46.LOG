@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=4N25 NewDesignator=J4
+Change Component Designator: OldDesignator=FASE NewDesignator=J2
+Change Component Designator: OldDesignator=MOC NewDesignator=J3
+Change Component Designator: OldDesignator=MOTOR NewDesignator=J1
+Added Component: Designator=C?(CAP200)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Autor"; Value = "Brula, Tomas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fecha"; Value = "19/4/22"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES400)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+ Pin=C?-2
+Added Pin To Net: NetName=M1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Net: Name=NetC?_1
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component C? 33n
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component J2 220
+Added Member To Class: ClassName=MOTOR_MAQUINA Member=Component R? 33

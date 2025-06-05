@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GND_ARD Pin=ARDUINO-4
+Removed Pin From Net: NetName=DIR_X1 Pin=ARDUINO-5
+Removed Pin From Net: NetName=DIR_Y1 Pin=ARDUINO-6
+Removed Pin From Net: NetName=STEP_X1 Pin=ARDUINO-8
+Removed Pin From Net: NetName=STEP_Y1 Pin=ARDUINO-9
+Removed Pin From Net: NetName=5V Pin=ARDUINO-27
+Removed Pin From Net: NetName=P7 Pin=KL-2
+Removed Pin From Net: NetName=P4 Pin=KL-3
+Removed Pin From Net: NetName=P3 Pin=KL-4
+Removed Pin From Net: NetName=P5 Pin=KL-5
+Removed Pin From Net: NetName=P2 Pin=KL-25
+Removed Pin From Net: NetName=P1 Pin=KL-26
+Removed Pin From Net: NetName=P6 Pin=KL-37
+Removed Member From Class: ClassName=ShieldKL25zG18 Member=ARDUINO
+Added Component: Designator=J5(SIP7)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J?(SIP2 90)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J?(SIP6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P1 Pin=J5-1
+Added Pin To Net: NetName=P2 Pin=J5-2
+Added Pin To Net: NetName=P3 Pin=J5-3
+Added Pin To Net: NetName=P4 Pin=J5-4
+Added Pin To Net: NetName=P5 Pin=J5-5
+Added Pin To Net: NetName=P6 Pin=J5-6
+Added Pin To Net: NetName=P7 Pin=J5-7
+Added Pin To Net: NetName=12V Pin=J?-1
+Added Pin To Net: NetName=GND_ARD Pin=J?-1
+Added Pin To Net: NetName=DIR_X1 Pin=J?-2
+Added Pin To Net: NetName=MASA Pin=J?-2
+Added Pin To Net: NetName=DIR_Y1 Pin=J?-3
+Added Pin To Net: NetName=STEP_X1 Pin=J?-4
+Added Pin To Net: NetName=STEP_Y1 Pin=J?-5
+Added Pin To Net: NetName=5V Pin=J?-6
+Added Pin To Net: NetName=P7 Pin=KL-25
+Added Pin To Net: NetName=P6 Pin=KL-26
+Added Pin To Net: NetName=P4 Pin=KL-33
+Added Pin To Net: NetName=P1 Pin=KL-34
+Added Pin To Net: NetName=P3 Pin=KL-35
+Added Pin To Net: NetName=P2 Pin=KL-36
+Added Pin To Net: NetName=P5 Pin=KL-38
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J5 FUENTE
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J? 12V
+Added Member To Class: ClassName=ShieldKL25zG18 Member=Component J? ARDUINO
